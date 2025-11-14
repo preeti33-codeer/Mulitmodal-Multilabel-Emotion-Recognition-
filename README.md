@@ -59,19 +59,6 @@ Both models learn from your **saved CSV dataset** and improve predictions with u
 
 ---
 
-# ✅ **6. Preview GIF Creation Instructions**
-(So your GitHub README can include an app demo)
-
-I can generate a preview if you upload a screen recording.  
-Here is the code snippet for README after you record it:
-
-```markdown
-## 🎥 Demo
-
-<p align="center">
-  <img src="demo.gif" width="700px"/>
-</p>
-
 2️⃣ Install Dependencies
 
 pip install -r requirements.txt
