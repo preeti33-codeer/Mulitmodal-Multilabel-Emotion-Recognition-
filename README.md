@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Gradio-4.x-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/HuggingFace-Transformers-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Multimodal-Emotion%20AI-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/License-MIT-brightgreen?style=for-the-badge" />
+</p>
 # 🎭 Multimodal Multilabel Emotion Recognition
 This project is an interactive multimodal emotion recognition system that detects human emotions from text, facial expressions (webcam), and voice (microphone). It combines deep learning with traditional ML algorithms and provides a real-time, user-friendly interface built using Gradio.
 
