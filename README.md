@@ -50,12 +50,6 @@ Built with an elegant **Gradio UI**, this app is perfect for demos, college proj
 - **KNeighborsClassifier**
 
 Both models learn from your **saved CSV dataset** and improve predictions with usage.
-  ╭━━━╮╭━━━╮╭━━━╮
-  ┃╭━╮┃┃╭━━╯┃╭━╮┃
-  ┃┃ ╰╯┃╰━━╮┃╰━╯┃
-  ┃┃ ╭╮┃╭━━╯┃╭╮╭╯
-  ┃╰━╯┃┃╰━━╮┃┃┃╰╮
-  ╰━━━╯╰━━━╯╰╯╰━╯
 
 ---
 
