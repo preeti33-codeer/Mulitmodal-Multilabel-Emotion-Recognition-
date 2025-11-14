@@ -53,12 +53,6 @@ Both models learn from your **saved CSV dataset** and improve predictions with u
 
 ---
 
-# ✅ **5. GitHub Social Preview Text (for repository preview card)**
-
-**"Analyze emotions from text, images, and audio using advanced Transformers + CSS animated UI + dynamic avatars. Beautiful, fast, and safe."**
-
----
-
 2️⃣ Install Dependencies
 
 pip install -r requirements.txt
