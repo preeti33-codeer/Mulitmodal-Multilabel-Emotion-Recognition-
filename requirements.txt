@@ -1,0 +1,10 @@
+gradio
+transformers
+torch
+torchvision
+torchaudio
+librosa
+pandas
+matplotlib
+Pillow
+scikit-learn
