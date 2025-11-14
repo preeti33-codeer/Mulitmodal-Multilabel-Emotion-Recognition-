@@ -1,8 +1,7 @@
-# Mulitmodal-Multilabel-Emotion-Recognition-
+# 🎭 Multimodal Multilabel Emotion Recognition
 This project is an interactive multimodal emotion recognition system that detects human emotions from text, facial expressions (webcam), and voice (microphone). It combines deep learning with traditional ML algorithms and provides a real-time, user-friendly interface built using Gradio.
-# 🎭 Multimodal Emotion Recognition  
-### *(Text + Image + Audio) with Decision Tree & KNN Integration*
 
+### *(Text + Image + Audio) with Decision Tree & KNN Integration*
 This project is a **Multimodal Emotion Recognition System** that takes **text**, **image**, and **audio** from a user and predicts emotions using:
 
 - 🧠 **Transformer Models**  
@@ -12,8 +11,6 @@ This project is a **Multimodal Emotion Recognition System** that takes **text**,
 - 📝 Automatic CSV logging & dataset building  
 
 Built with an elegant **Gradio UI**, this app is perfect for demos, college projects, research, and AI-based emotion analysis tools.
-
----
 
 ## 🚀 **Features**
 ✔ Multimodal Input  
@@ -27,8 +24,6 @@ Built with an elegant **Gradio UI**, this app is perfect for demos, college proj
 ✔ CSV Logging for Training Dataset  
 ✔ Decision Tree & KNN trained from previous user interactions  
 ✔ Live Gradio Web App (shareable link)  
-
----
 
 ## 🧠 **Models Used**
 
@@ -47,7 +42,6 @@ Built with an elegant **Gradio UI**, this app is perfect for demos, college proj
 
 Both models learn from your **saved CSV dataset** and improve predictions with usage.
 
----
 2️⃣ Install Dependencies
 
 pip install -r requirements.txt
