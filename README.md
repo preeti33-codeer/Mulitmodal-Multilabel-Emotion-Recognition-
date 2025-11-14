@@ -5,6 +5,8 @@
   <img src="https://img.shields.io/badge/Multimodal-Emotion%20AI-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/License-MIT-brightgreen?style=for-the-badge" />
 </p>
+Multimodal Emotion Recognition • Text + Image + Audio • Animated UI
+
 # 🎭 Multimodal Multilabel Emotion Recognition
 This project is an interactive multimodal emotion recognition system that detects human emotions from text, facial expressions (webcam), and voice (microphone). It combines deep learning with traditional ML algorithms and provides a real-time, user-friendly interface built using Gradio.
 
@@ -48,6 +50,33 @@ Built with an elegant **Gradio UI**, this app is perfect for demos, college proj
 - **KNeighborsClassifier**
 
 Both models learn from your **saved CSV dataset** and improve predictions with usage.
+  ╭━━━╮╭━━━╮╭━━━╮
+  ┃╭━╮┃┃╭━━╯┃╭━╮┃
+  ┃┃ ╰╯┃╰━━╮┃╰━╯┃
+  ┃┃ ╭╮┃╭━━╯┃╭╮╭╯
+  ┃╰━╯┃┃╰━━╮┃┃┃╰╮
+  ╰━━━╯╰━━━╯╰╯╰━╯
+
+---
+
+# ✅ **5. GitHub Social Preview Text (for repository preview card)**
+
+**"Analyze emotions from text, images, and audio using advanced Transformers + CSS animated UI + dynamic avatars. Beautiful, fast, and safe."**
+
+---
+
+# ✅ **6. Preview GIF Creation Instructions**
+(So your GitHub README can include an app demo)
+
+I can generate a preview if you upload a screen recording.  
+Here is the code snippet for README after you record it:
+
+```markdown
+## 🎥 Demo
+
+<p align="center">
+  <img src="demo.gif" width="700px"/>
+</p>
 
 2️⃣ Install Dependencies
 
